@@ -1,0 +1,7 @@
+﻿  Project.cpp
+C:\Users\Tom\Documents\UNI\4th Year\1st Semester\MATH49111 Scientific Computing\Project__1\Project.cpp(33,10): warning C4002: too many arguments for function-like macro invocation 'assert'
+C:\Users\Tom\Documents\UNI\4th Year\1st Semester\MATH49111 Scientific Computing\Project__1\Project.cpp(41,19): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tom\Documents\UNI\4th Year\1st Semester\MATH49111 Scientific Computing\Project__1\Project.cpp(112,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom\Documents\UNI\4th Year\1st Semester\MATH49111 Scientific Computing\Project__1\Project.cpp(227,22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Tom\Documents\UNI\4th Year\1st Semester\MATH49111 Scientific Computing\Project__1\Project.cpp(34): warning C4715: 'MVector::operator[]': not all control paths return a value
+  Project__1.vcxproj -> C:\Users\Tom\Documents\UNI\4th Year\1st Semester\MATH49111 Scientific Computing\Project__1\x64\Debug\Project__1.exe
