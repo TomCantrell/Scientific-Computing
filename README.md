@@ -1,2 +1,2 @@
 # Scientific-Computing
-Collection of coursework done in c++ 
+Collection of coursework done in C++ 
